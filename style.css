@@ -1,0 +1,106 @@
+html, body{
+background-image: url('hh1.jpg');
+margin: 0;
+padding: 0;
+
+}
+h1,h2,h3, p, span, button{
+font-family:"Karla"	
+	
+	
+}
+h1{
+text-align: center;
+margin-top:0.7em ;
+font-size: 55px;
+font-style:initial;
+color: black;
+
+}
+.img11{
+    margin: 0;
+    margin-left: 1.5em;
+    margin-top:1em;
+    height: 25px;
+    width: 25px;
+
+}
+.Nav{
+background-color: white;
+display: block;
+margin:0;
+height: 65px;
+}
+.Nav-btn{   
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 140px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 0.5em;
+    margin-right:1em;
+    float: right;
+}
+
+.Mid{
+text-align: center;
+color: white;
+}
+.mid-p{
+font-size: 19px;
+margin-top: 0;
+
+
+}
+.mid-btn{
+    background-color: white;
+    border: none;
+    border-radius: 140px;
+    color: #4CAF50;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin-top: 1.7em;
+    width: 200px;
+    box-shadow: 5px 5px rgb(49, 49, 49);
+}
+.row{
+width: 100%;
+}
+.row-cell{
+width: 200px;
+height: 200px;
+display: inline-block;
+text-align: center;
+margin: 1em 1em;
+border:solid 1px white;
+border-radius: 25px;
+}
+p{
+    color:black;
+    font-size: 25px;
+}
+img{
+width: 100px;
+height:100px;
+margin-top: 25px;
+
+}
+details{
+    color:white;
+    margin-top: 2.6em;
+    
+}
+.p-copyrights{
+font-size: 15px;
+
+
+
+}
+
